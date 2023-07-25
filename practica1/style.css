@@ -1,0 +1,57 @@
+.box{
+    background:green;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+input{background: greenyellow;}
+aside {
+    color: white;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 19px;
+    background-color:orange;
+    height: 35vh;
+    border-radius: 5px;
+    display: inline-table;
+    width: 25vw;
+    
+
+}
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    background-color:red;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    height: 30vh;
+    display: inline-table;
+    width: 30vw;
+  }
+  article {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    height: 5vh;
+    margin: 15px;
+
+}
+.Foot{
+    background-color:purple;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: BOLDER;
+    
+}
+
+
